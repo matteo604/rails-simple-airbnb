@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+ .card-header {
+  background-color: #6c757d;
+  height: 130px;
+}
+
+.card-body {
+  background-color: white;
+}
+.card {
+  min-height: 100px;
+}
